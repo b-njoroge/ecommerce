@@ -4,7 +4,7 @@
 ## Description
 web based ecommerce website that enbales users to order their  favorite laptops.
 ## Setup/Installation Requirements
-* Clone the repo :{git clone  }
+* Clone the repo :{git clone https://github.com/b-njoroge/ecommerce.git  }
 * No server or dependencies needed to run the code.
 ## Live link
 
